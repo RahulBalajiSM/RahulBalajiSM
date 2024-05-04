@@ -5,7 +5,7 @@
 
 <h3 align="left"> About Me</h3>
 
-<img align="right"  width="250" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
+<img align="right"  width="325" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
 <p align="left">👨‍💻Currently navigating the intricate pathways of Information Technology at CIT College, immersing myself in the diverse realms of the digital universe. 🌐 With Spotknack as my compass, I'm honing my craft in frontend development, sculpting interfaces that seamlessly fuse functionality with aesthetic allure.
 <br><br>💻 Ever the intrepid explorer, I embark on quests for knowledge, delving deep into the realms of AI, blockchain, and beyond. Each discovery fuels my passion for innovation, illuminating the ever-evolving landscape of technology. 🚀 
 <br><br>⚽With a football at my feet and the spirit of competition in the air, I find solace on the pitch, weaving through challenges with finesse. And when the final whistle blows, I retreat into the captivating realm of anime, where imagination knows no bounds.

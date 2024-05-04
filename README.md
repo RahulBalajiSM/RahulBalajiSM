@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulbalajism&label=Profile%20views&color=0e75b6&style=flat" alt="rahulbalajism" /> </p>
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left"> About Me</h3>
 
 <img align="right"  width="500" src="https://cdn.vectorstock.com/i/preview-1x/42/16/woman-programmer-software-developer-working-vector-37874216.jpg">
 <p align="left">👨‍💻I'm currently pursuing my B.Tech in Information Technology from CIT College. I have a keen interest in the world of technology and I'm currently learning frontend development at SpotKnack.<br><br>🌱I have a passion for exploring and gaining new knowledge, and I believe that there's always something new to learn in the tech field. I love the challenge of solving problems and the satisfaction that comes with it.<br><br>⚽When I'm not coding or learning something new, you can find me on the football field or immersed in the world of anime. I believe in maintaining a balance between work and hobbies, as it helps me stay motivated and inspired.<br><br>🙋‍♂️Feel free to explore my repositories and don't hesitate to reach out if you have any questions or just want to chat about tech, football, or anime!<br><br>🗨️ How to reach me:rahulbalaji0501@gmail.com</p>

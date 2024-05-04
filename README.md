@@ -5,10 +5,11 @@
 
 <h3 align="left"> About Me</h3>
 
-<img align="right"  width="500" src="[https://cdn.vectorstock.com/i/preview-1x/42/16/woman-programmer-software-developer-working-vector-37874216.jpg](https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg)">
-<p align="left">👨‍💻I'm currently pursuing my B.Tech in Information Technology from CIT College. I have a keen interest in the world of technology and I'm currently learning frontend development at SpotKnack.<br><br>🌱I have a passion for exploring and gaining new knowledge, and I believe that there's always something new to learn in the tech field. I love the challenge of solving problems and the satisfaction that comes with it.<br><br>⚽When I'm not coding or learning something new, you can find me on the football field or immersed in the world of anime. I believe in maintaining a balance between work and hobbies, as it helps me stay motivated and inspired.<br><br>🙋‍♂️Feel free to explore my repositories and don't hesitate to reach out if you have any questions or just want to chat about tech, football, or anime!<br><br>🗨️ How to reach me:rahulbalaji0501@gmail.com</p>
-
-<h3 align="left">Connect with me:</h3>
+<img align="right"  width="500" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
+<p align="left">👨‍💻Currently navigating the intricate pathways of Information Technology at CIT College, immersing myself in the diverse realms of the digital universe. 🌐 With Spotknack as my compass, I'm honing my craft in frontend development, sculpting interfaces that seamlessly fuse functionality with aesthetic allure.
+<br><br>💻 Ever the intrepid explorer, I embark on quests for knowledge, delving deep into the realms of AI, blockchain, and beyond. Each discovery fuels my passion for innovation, illuminating the ever-evolving landscape of technology. 🚀 
+<br><br>⚽With a football at my feet and the spirit of competition in the air, I find solace on the pitch, weaving through challenges with finesse. And when the final whistle blows, I retreat into the captivating realm of anime, where imagination knows no bounds.
+<br><br>🙋‍♂️Feel free to explore my repositories and don't hesitate to reach out if you have any questions or just want to chat about tech, football, or anime!<br><br>🗨️ How to reach me:rahulbalaji0501@gmail.com</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
